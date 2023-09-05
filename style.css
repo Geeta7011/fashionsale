@@ -1,0 +1,598 @@
+body{
+    background-color: whitesmoke;
+}
+
+
+.nav{
+
+    display: flex;
+    column-gap: 4rem;
+    margin-left: 35rem;
+    margin-top: -5rem;
+    font-size: 1rem;
+}
+.work{
+    border-style: solid;
+    padding: 0.3rem;
+    margin-top: 0.5rem;
+    background-color: black;
+    color: white;
+    
+}
+.brandname{
+    font-size: 1.5rem;
+    margin-top: 3rem;
+}
+.p1{
+    width: 50rem;
+    height: 50rem;
+    margin-top: 1rem;
+}
+.image{
+    display: flex;
+}
+.parah{
+    margin-left: 70rem;
+    margin-top: -40rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.name{
+    margin-top: 15rem;
+    font-size: 10rem;
+    margin-left: 10rem;
+    
+}
+.followme{
+    font-size: 1rem;
+    margin-top: 32rem;
+    margin-left: 85rem;
+}
+.icon{
+    display: flex;
+    margin-left: 60rem;
+    justify-content:space-between ;
+    margin-top: 1rem;
+
+}
+.youtube{
+    width: 3.5rem;
+    height: 2.8rem;
+    margin-top: 2rem;
+}
+.youtube1{
+    margin-left: 58rem;
+    margin-top: -2rem;
+}
+.instagram{
+    width: 4rem;
+    height: 2rem;
+    margin-top: 2rem;
+}
+.insta{
+    margin-left: 72rem;
+    margin-top: -0.3rem;
+}
+.facebook{
+    width: 2.5rem;
+    height: 3rem;
+    margin-right: 4rem;
+    margin-top: 1rem;
+}
+.fb{
+    margin-left:85rem ;
+    margin-top: -1.9rem;
+}
+.line1{
+    text-align: center;
+    margin-top: 3rem;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    column-gap: 5rem;
+    margin-top: 3rem;
+}
+.heading{
+    font-size: 2.6rem;
+    margin-top: 10rem;
+    text-align: center;
+}
+.head{
+    text-align: center;
+}
+.head2{
+    text-align: center;
+    margin-top: 1rem;
+}
+.p2{
+    margin-bottom: -40rem;
+    width: 50rem;
+    height: 35rem;
+    
+}
+.seconddive{
+    display: flex;
+    margin-top: 4.5rem;
+}
+.cloth{
+    /* margin-top: -rem; */
+    margin-left: 52rem;
+    font-size: 2.4rem;
+}
+.date{
+    margin-left: 3.1rem;
+    margin-top: -0.3rem;
+
+}
+.cloth1{
+    margin-left: 52rem;
+    line-height: 1.3rem;
+}
+.logo2{
+    margin-left: 52rem;
+}
+.a7{
+    margin-top: 2.7rem;
+}
+.p3{
+margin-top: 40rem;
+margin-left:8rem; 
+}
+.div3{
+    margin-top: -106rem;
+}
+.h3{
+    font-size: 2.6rem;
+
+}
+.cos{
+    margin-top: -0.2rem;
+    line-height: 1.5rem;
+}
+.ph{
+    margin-left: 8rem;
+}
+.ph2{
+    margin-left: 8rem;
+    font-size: 2.7rem;
+}
+.ph3{
+    margin-left: 8rem;
+    line-height: 1.7rem;
+}
+.logo4{
+    margin-left: 7rem;
+}
+.l4{
+    margin-left: 7rem;
+
+}
+.d{
+    margin-top: 15rem;
+    font-size: 2.3rem;
+    text-align: center;
+}
+.d2{
+    text-align: center;
+}
+.d3{
+    text-align: center;
+}
+.m{
+    display: flex;
+    justify-content: center;
+    column-gap: 5rem;
+    margin-top: 5rem;
+}
+.urban{
+    margin-left: 8.2rem;
+    color: red;
+
+}
+.urban1{
+    margin-left: 8.2rem;
+    font-size: 1.5rem;
+}
+.f1{
+    font-size: 1.5rem;
+    margin-left: 50rem;
+    /* margin-top: -1rem; */
+}
+.f{
+    margin-left: 50rem;
+    margin-top: -6rem;
+    color: red;
+}
+.m2{
+    display: flex;
+    justify-content: center;
+    column-gap: 5rem;
+    margin-top: 2rem;
+}
+.trendy{
+    margin-left: 8.2rem;
+    color: red;
+}
+.trendy1{
+    margin-left: 8.2rem;
+    font-size: 1.5rem;
+}
+.w{
+    margin-left: 50rem;
+    margin-top: -6rem;
+    color: red;
+}
+.w1{
+    margin-left: 50rem;
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    line-height: 3rem;
+}
+.myfashion{
+    margin-top: 13rem;
+    font-size: 2rem;
+    margin-left: 8.5rem;
+}
+.view{
+    margin-left: 80rem;
+    margin-top: -4rem;
+    font-size: 0.8rem;
+    border-style: solid;
+    padding: 0.6rem;
+    width: 5rem;
+    background-color: black;
+    color: white;
+}
+.logo6{
+    display: flex;
+    column-gap: 5rem;
+    margin-left: 8.5rem;
+    margin-top: 4rem;
+}
+.t1{
+    /* margin-left: 8.5rem; */
+    font-size: 1rem;
+    /* margin-top: 10rem; */
+}
+.t2{
+    margin-left: 2rem;
+    font-size: 1rem;
+
+}
+.t3{
+    /* margin-left: 40rem; */
+    font-size: 1rem;
+}
+.logo7{
+    display: flex;
+    column-gap: 10rem;
+    margin-left: 8.5rem;
+    margin-top: 2rem;
+}  
+
+.a4:hover{
+
+    transform: scale(1.05);
+    /* scroll-behavior: smooth; */
+
+}
+.a5:hover{
+
+    transform: scale(1.05);
+    /* scroll-behavior: smooth; */
+
+}
+.a6:hover{
+
+    transform: scale(1.05);
+    /* scroll-behavior: smooth; */
+
+}
+.email{
+    justify-content: center;
+    border-style:solid ;
+    width: 68rem;
+    height: 23rem;
+    margin-left: 13rem;
+    margin-top: 10rem;
+    display: flex;
+    color: white;
+    background-color: wheat;
+    /* column-gap: 15rem; */
+}
+.e{
+    border-radius: 50%;
+    width: 17em;
+    height: 17rem;
+    margin-top: 3rem;
+    margin-right: 5rem;
+
+}
+.e2{
+    margin-top: 5rem;
+    font-size: 2.4rem;
+    margin-right: 2rem;
+}
+.e3{
+    margin-top: -14rem;
+    margin-left: 40rem;
+}
+.text{
+    width: 35rem;
+    height: 3rem;
+    margin-left: 40rem;
+    font-size: 1.4rem;
+    margin-top: 1rem;
+    color: grey;
+}
+.t{
+    color: gray;
+    margin-left: 15rem;
+    height: 8rem;
+    width: 15rem;
+}
+.subs{
+    border-style: solid;
+    /* color: white; */
+    width: 10rem;
+    height: 3rem;
+    text-align: center;
+    /* padding: 1rem; */
+    font-size: 1.2rem;
+    margin-left: 40rem;
+    background-color: white;
+    color:grey;
+}
+.h{
+    font-size: 2rem;
+    margin-left: 8.5rem;
+    margin-top: 15rem;
+}
+.v1{
+    width: 35rem;
+    height: 40rem;
+    margin-top: -5rem;
+}
+.video{
+    display: flex;
+    column-gap: 5rem;
+    justify-content: center;
+    margin-top: -2rem;
+}
+.h2{
+    margin-left: 77rem;
+    margin-top: -4rem;
+    border-style: solid;
+    width: 9em;
+    height: 2rem;
+    text-align: center;
+    padding-top: 0.5rem;
+    background-color: black;
+    color: white;
+}
+.h2:hover{
+
+    transform: scale(1.05);
+    /* background-color: goldenrod; */
+    /* scroll-behavior: smooth; */
+
+}
+.tab{
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 10rem;
+}
+.last4{
+    display: flex;
+    justify-content: center;
+    margin-top: 15rem;
+    /* margin-right: 40rem; */
+}
+.k1{
+    width: 19rem;
+    height: 15rem;
+    /* margin-left: 80rem; */
+}
+.k2{
+    width: 19rem;
+    height: 15rem;
+}
+.k3{
+    width: 19rem;
+    height: 15rem;
+}
+.k4{
+    width: 19rem;
+    height: 15rem;
+}
+.k5{
+    width: 19rem;
+    height: 15rem;
+}
+.k6{
+    width: 19rem;
+    height: 15rem;
+}
+.k7{
+    width: 19rem;
+    height: 15rem;
+}
+.k8{
+    width: 15rem;
+    height: 15rem;
+}
+.k9{
+    width: 19rem;
+    height: 15rem;
+}
+.k10{
+    width: 19rem;
+    height: 15rem;
+}
+.k11{
+    width: 15rem;
+    height: 15rem;
+}
+.first{
+    margin-left: 10rem;
+    /* font-size: 1.5rem; */
+    margin-top: 8rem
+}
+.one{
+    margin-left: 2.5rem;
+    font-size: 1.5rem;
+    margin-top: -0.5rem;
+}
+.book{
+
+    margin-right:1rem ;
+    font-size: 1.5rem;
+    margin-top: -0.9rem;
+}
+.book2{
+    margin-right: 3rem;
+    font-size: 1.5rem;
+    margin-top: -1.5rem;
+}
+.bookparh{
+    margin-left: 5rem;
+    font-size: 0.7rem;
+    margin-left: 8rem;
+    margin-top: -0.9rem;
+    
+}
+.first2{
+    margin-left: 30rem;
+    /* font-size: 1.5rem; */
+    margin-top: -10rem
+}
+.two{
+    margin-left: 2.5rem;
+    font-size: 1.5rem;
+    margin-top: -0.5rem;
+}
+
+.book21{
+
+    margin-right:1rem ;
+    font-size: 1.5rem;
+    margin-top: -0.9rem;
+}
+.book22{
+    margin-right: 3rem;
+    font-size: 1.5rem;
+    margin-top: -1.5rem;
+}
+.bookparh2{
+    margin-left: 5rem;
+    font-size: 0.7rem;
+    margin-left: 30rem;
+    margin-top: -0.9rem;
+    
+}
+.first3{
+    margin-left: 50rem;
+    /* font-size: 1.5rem; */
+    margin-top: -10rem
+}
+.three{
+    margin-left: 2.5rem;
+    font-size: 1.5rem;
+    margin-top: -0.5rem;
+}
+.book24{
+
+    margin-right:1rem ;
+    font-size: 1.5rem;
+    margin-top: -0.9rem;
+}
+.book25{
+    margin-right: 3rem;
+    font-size: 1.5rem;
+    margin-top: -1.5rem;
+}
+.bookparh3{
+    margin-left: 5rem;
+    font-size: 0.7rem;
+    margin-left: 50rem;
+    margin-top: -0.9rem;
+    
+}
+.first4{
+    margin-left: 75rem;
+    /* font-size: 1.5rem; */
+    margin-top: -10rem
+}
+.four{
+    margin-left: 2.5rem;
+    font-size: 1.5rem;
+    margin-top: -0.5rem;
+}
+.book26{
+
+    margin-right:1rem ;
+    font-size: 1.5rem;
+    margin-top: -0.9rem;
+}
+.book27{
+    margin-right: 3rem;
+    font-size: 1.5rem;
+    margin-top: -1.5rem;
+}
+.bookparh4{
+    margin-left: 5rem;
+    font-size: 0.7rem;
+    margin-left: 75rem;
+    margin-top: -0.9rem;
+    
+}
+.parent{
+    color: grey;
+}
+.Appointment{
+    font-size: 2.5rem;
+    font-style: italic;
+    color: lightseagreen;
+    text-align: center;
+    margin-top: 5rem;
+}
+.btn{
+    border-style: solid;
+    /* margin-bottom: 40rem; */
+    width: 15rem;
+    height: 3rem;
+    margin-left: 80rem;
+    background-color: lawngreen;
+    color:black;
+    font-size: 2rem;
+}
+.s1{
+    margin-left: 20rem;
+    margin-top: -12rem;
+    color: white;
+}
+.s2{
+    margin-left: 40rem;
+    margin-top: -9rem;
+    color: white;
+}
+.s3{
+    margin-left: 60rem;
+    margin-top: -6rem;
+    color: white;
+}
+.s4{
+    margin-left: 1rem;
+    color: white;
+    /* margin-top: -6rem; */
+}
+
+.end{
+    border-style: solid;
+    background-color: black;
+    height: 20rem;
+}
+
+
+
